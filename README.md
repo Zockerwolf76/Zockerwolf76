@@ -10,6 +10,7 @@
 <a href="https://twitter.com/zockerwolf76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zockerwolf76" height="30" width="40" /></a>
 <a href="https://instagram.com/zockerwolf76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zockerwolf76" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC_rG6DOC0C7bp85BQ97xUYg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zockerwolf76" height="30" width="40" /></a>
+<a href="https://www.reddit.com/u/zockerwolf76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="zockerwolf76" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
