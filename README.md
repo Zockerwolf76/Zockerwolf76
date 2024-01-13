@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+<h3 align="center">A passionate developer from Germany</h3>
 
 - 🔭 I’m currently working on [Aurorabots](https://github.com/Zockerwolf76/aurorabots)
 
