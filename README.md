@@ -22,4 +22,12 @@
 
 ![Zockerwolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zockerwolf76&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zockerwolf76&layout=donut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zockerwolf76&size_weight=0.5&count_weight=0.5&theme=onedark)
+
+## My projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zockerwolf76&repo=aurorabots&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zockerwolf76&repo=Zockbot-Instagram&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zockerwolf76&repo=Zockbot-Instagram&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
