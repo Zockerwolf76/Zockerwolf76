@@ -19,6 +19,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Zockerwolf76&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zockerwolf76&show_icons=true&theme=onedark)
+
+![Zockerwolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zockerwolf76&show_icons=true&theme=onedark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zockerwolf76&layout=donut&theme=onedark)
