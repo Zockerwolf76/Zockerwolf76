@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Robin</h1>
 <h3 align="center">A passionate developer from Germany</h3>
 
-- 🔭 I’m currently working on [Something](https://letmegooglethat.com/?q=something+definition)
+- 🔭 I’m cooking [something](https://letmegooglethat.com/?q=something+definition)
 
-- ⚡ Fun fact **I think i'm funny (not really)**
+- ⚡ Fun fact...     **I don't know**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/zockerwolf76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zockerwolf76" height="30" width="40" /></a>
@@ -22,4 +22,4 @@
 
 ![Zockerwolf's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zockerwolf76&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zockerwolf76&layout=donut&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zockerwolf76&layout=donut&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
