@@ -28,6 +28,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zockerwolf76&repo=aurorabots&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zockerwolf76&repo=Zockbot-Instagram&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zockerwolf76&repo=Aurora-YTDownloader&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Zockerwolf76&repo=Zockbot-Instagram&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
